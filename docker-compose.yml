@@ -1,0 +1,44 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_DB: kta
+      POSTGRES_USER: kta
+      POSTGRES_PASSWORD: kta
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+
+  backend:
+    build: .
+    environment:
+      DB_URL: jdbc:postgresql://postgres:5432/kta
+      DB_USERNAME: kta
+      DB_PASSWORD: kta
+      REDIS_HOST: redis
+      DEMO_DATA_ENABLED: "true"
+    ports:
+      - "8080:8080"
+    depends_on:
+      - postgres
+      - redis
+
+  frontend:
+    build: ./frontend
+    environment:
+      NUXT_API_BASE: http://backend:8080/api
+      NUXT_PUBLIC_API_BASE: http://localhost:8080/api
+      NUXT_PUBLIC_SITE_URL: http://localhost:3000
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+
+volumes:
+  postgres-data:

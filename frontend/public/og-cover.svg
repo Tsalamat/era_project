@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Тест Магистратура">
+  <rect width="1200" height="630" fill="#f7f9fb"/>
+  <rect x="68" y="72" width="1064" height="486" rx="24" fill="#ffffff" stroke="#d9e2ec" stroke-width="4"/>
+  <circle cx="1028" cy="176" r="64" fill="#246bfe" opacity="0.14"/>
+  <circle cx="936" cy="452" r="52" fill="#00a676" opacity="0.16"/>
+  <rect x="112" y="116" width="124" height="124" rx="28" fill="#246bfe"/>
+  <text x="174" y="194" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="76" font-weight="900" fill="#ffffff">K</text>
+  <text x="112" y="318" font-family="Inter, Arial, sans-serif" font-size="58" font-weight="900" fill="#17202a">Тест Магистратура</text>
+  <text x="112" y="388" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700" fill="#246bfe">Подготовка к КТА в магистратуру</text>
+  <text x="112" y="454" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="600" fill="#52606d">Курсы, уроки, пробные тесты и объяснения ошибок</text>
+  <text x="112" y="506" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800" fill="#00a676">invest-gold.asia</text>
+</svg>

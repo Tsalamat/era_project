@@ -1,0 +1,309 @@
+{"kind":"deck","id":"pr/eio8p1","name":"Deck"}
+{"kind":"layout","layoutId":"51230989-523a-437c-9603-89d4aa5483e7","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"07caaaa9-6cda-46df-b95b-6b0712d0398e","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/utthui","slide":1,"title":"KTA Study","textShapes":5}
+{"kind":"textbox","id":"sh/jedczydk","slide":1,"text":"KTA Study","textPreview":"KTA Study","textChars":9,"textLines":1,"bbox":[52,56,540,84]}
+{"kind":"textbox","id":"sh/kfmdsju5","slide":1,"text":"Бесплатная образовательная платформа для подготовки к КТА в магистратуру","textPreview":"Бесплатная образовательная платформа для подготовки к КТА в магистратуру","textChars":72,"textLines":1,"bbox":[54,160,500,140]}
+{"kind":"textbox","id":"sh/lgvu1obq","slide":1,"text":"Nuxt 3 + Spring Boot + PostgreSQL + AWS","textPreview":"Nuxt 3 + Spring Boot + PostgreSQL + AWS","textChars":39,"textLines":1,"bbox":[54,342,500,44]}
+{"kind":"textbox","id":"sh/apkbm9c3","slide":1,"text":"Проект: invest-gold.asia","textPreview":"Проект: invest-gold.asia","textChars":24,"textLines":1,"bbox":[54,404,500,36]}
+{"kind":"shape","id":"sh/bqtcvedo","slide":1,"bbox":[632,52,592,572]}
+{"kind":"textbox","id":"sh/xsvuxovu","slide":1,"text":"invest-gold.asia  /  1","textPreview":"invest-gold.asia  /  1","textChars":22,"textLines":1,"bbox":[980,666,230,24]}
+{"kind":"image","id":"im/dc7m10ra","slide":1,"name":"","geometry":"roundRect","alt":"Главная страница KTA Study","bbox":[650,70,556,536]}
+{"kind":"notes","id":"nt/utthui","slide":1,"text":""}
+{"kind":"slide","id":"sl/1ppczm","slide":2,"title":"ИДЕЯ ПРОЕКТА","textShapes":10}
+{"kind":"textbox","id":"sh/tsj2hw3i","slide":2,"text":"ИДЕЯ ПРОЕКТА","textPreview":"ИДЕЯ ПРОЕКТА","textChars":12,"textLines":1,"bbox":[52,42,420,28]}
+{"kind":"textbox","id":"sh/6p8j61kr","slide":2,"text":"Платформа закрывает полный цикл подготовки","textPreview":"Платформа закрывает полный цикл подготовки","textChars":42,"textLines":1,"bbox":[52,82,1120,94]}
+{"kind":"textbox","id":"sh/rqhkf6lc","slide":2,"text":"invest-gold.asia  /  2","textPreview":"invest-gold.asia  /  2","textChars":22,"textLines":1,"bbox":[980,666,230,24]}
+{"kind":"textbox","id":"sh/4nq14r2l","slide":2,"text":"Студент получает доступ к бесплатным курсам, урокам и тестам после регистрации. Учитель создает тесты без программирования, а админ управляет пользователями и контентом.","textPreview":"Студент получает доступ к бесплатным курсам, урокам и тестам после регистрации. Учитель создает тесты без программирования, а админ управ...","textChars":169,"textLines":1,"bbox":[52,192,530,146]}
+{"kind":"shape","id":"sh/5oz2dw36","slide":2,"bbox":[52,390,170,156]}
+{"kind":"textbox","id":"sh/il8j2hkv","slide":2,"text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[76,416,122,64]}
+{"kind":"textbox","id":"sh/jmhkbmlg","slide":2,"text":"курсов","textPreview":"курсов","textChars":6,"textLines":1,"bbox":[76,488,122,42]}
+{"kind":"shape","id":"sh/wz61072p","slide":2,"bbox":[242,390,170,156]}
+{"kind":"textbox","id":"sh/xkz29c3a","slide":2,"text":"36","textPreview":"36","textChars":2,"textLines":1,"bbox":[266,416,122,64]}
+{"kind":"textbox","id":"sh/lwr6p4r2","slide":2,"text":"уроков","textPreview":"уроков","textChars":6,"textLines":1,"bbox":[266,488,122,42]}
+{"kind":"shape","id":"sh/kvy5gzqx","slide":2,"bbox":[432,390,170,156]}
+{"kind":"textbox","id":"sh/zapone9c","slide":2,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[456,416,122,64]}
+{"kind":"textbox","id":"sh/y9gne98r","slide":2,"text":"новых тестов","textPreview":"новых тестов","textChars":12,"textLines":1,"bbox":[456,488,122,42]}
+{"kind":"image","id":"im/6d07q9of","slide":2,"name":"","geometry":"roundRect","alt":"Каталог курсов KTA Study","bbox":[666,188,540,390]}
+{"kind":"notes","id":"nt/1ppczm","slide":2,"text":""}
+{"kind":"slide","id":"sl/ad0jik","slide":3,"title":"ТЕХНОЛОГИИ","textShapes":11}
+{"kind":"textbox","id":"sh/z2hgryp0","slide":3,"text":"ТЕХНОЛОГИИ","textPreview":"ТЕХНОЛОГИИ","textChars":10,"textLines":1,"bbox":[52,42,420,28]}
+{"kind":"textbox","id":"sh/03qhk365","slide":3,"text":"Сайт собран на современном full-stack стеке","textPreview":"Сайт собран на современном full-stack стеке","textChars":43,"textLines":1,"bbox":[52,82,1120,94]}
+{"kind":"textbox","id":"sh/14jit87q","slide":3,"text":"invest-gold.asia  /  3","textPreview":"invest-gold.asia  /  3","textChars":22,"textLines":1,"bbox":[980,666,230,24]}
+{"kind":"shape","id":"sh/qd8zuto3","slide":3,"bbox":[52,206,540,150]}
+{"kind":"textbox","id":"sh/rehgnypo","slide":3,"text":"Frontend","textPreview":"Frontend","textChars":8,"textLines":1,"bbox":[80,230,240,36]}
+{"kind":"textbox","id":"sh/cfqhwj69","slide":3,"text":"Nuxt 3, Vue 3, TypeScript, Tailwind CSS, SSR для SEO","textPreview":"Nuxt 3, Vue 3, TypeScript, Tailwind CSS, SSR для SEO","textChars":52,"textLines":1,"bbox":[80,280,480,48]}
+{"kind":"shape","id":"sh/dgzypo7u","slide":3,"bbox":[666,206,540,150]}
+{"kind":"textbox","id":"sh/29ozq9o7","slide":3,"text":"Backend","textPreview":"Backend","textChars":7,"textLines":1,"bbox":[694,230,240,36]}
+{"kind":"textbox","id":"sh/3axgjeps","slide":3,"text":"Java 21, Spring Boot 3, Spring Security, JWT и cookie-session","textPreview":"Java 21, Spring Boot 3, Spring Security, JWT и cookie-session","textChars":61,"textLines":1,"bbox":[694,280,480,48]}
+{"kind":"shape","id":"sh/nuho7a9o","slide":3,"bbox":[52,424,540,150]}
+{"kind":"textbox","id":"sh/mt87e5s3","slide":3,"text":"Database","textPreview":"Database","textChars":8,"textLines":1,"bbox":[80,448,240,36]}
+{"kind":"textbox","id":"sh/9wj690re","slide":3,"text":"PostgreSQL, Flyway migrations, Redis, реальные попытки и прогресс","textPreview":"PostgreSQL, Flyway migrations, Redis, реальные попытки и прогресс","textChars":65,"textLines":1,"bbox":[80,498,480,48]}
+{"kind":"shape","id":"sh/ovapgvat","slide":3,"bbox":[666,424,540,150]}
+{"kind":"textbox","id":"sh/by1oba9k","slide":3,"text":"Deploy","textPreview":"Deploy","textChars":6,"textLines":1,"bbox":[694,448,240,36]}
+{"kind":"textbox","id":"sh/axs7i5sz","slide":3,"text":"Docker Compose, Caddy HTTPS, Terraform, AWS Ubuntu server","textPreview":"Docker Compose, Caddy HTTPS, Terraform, AWS Ubuntu server","textChars":57,"textLines":1,"bbox":[694,498,480,48]}
+{"kind":"notes","id":"nt/ad0jik","slide":3,"text":""}
+{"kind":"slide","id":"sl/fdt8b8","slide":4,"title":"АРХИТЕКТУРА","textShapes":10}
+{"kind":"textbox","id":"sh/ul8ze987","slide":4,"text":"АРХИТЕКТУРА","textPreview":"АРХИТЕКТУРА","textChars":11,"textLines":1,"bbox":[52,42,420,28]}
+{"kind":"textbox","id":"sh/hojy947y","slide":4,"text":"Запрос проходит от браузера до базы через защищенный слой","textPreview":"Запрос проходит от браузера до базы через защищенный слой","textChars":57,"textLines":1,"bbox":[52,82,1120,94]}
+{"kind":"textbox","id":"sh/wnahgzqd","slide":4,"text":"invest-gold.asia  /  4","textPreview":"invest-gold.asia  /  4","textChars":22,"textLines":1,"bbox":[980,666,230,24]}
+{"kind":"shape","id":"sh/7yhg3u9g","slide":4,"bbox":[64,312,170,86]}
+{"kind":"textbox","id":"sh/mx8zap8v","slide":4,"text":"Пользователь","textPreview":"Пользователь","textChars":12,"textLines":1,"bbox":[82,340,134,32]}
+{"kind":"shape","id":"sh/90zy54rm","slide":4,"bbox":[294,312,170,86]}
+{"kind":"textbox","id":"sh/8zqhczq1","slide":4,"text":"Caddy HTTPS","textPreview":"Caddy HTTPS","textChars":11,"textLines":1,"bbox":[312,340,134,32]}
+{"kind":"shape","id":"sh/zuhgzu9k","slide":4,"bbox":[524,312,170,86]}
+{"kind":"textbox","id":"sh/ytoz6p8z","slide":4,"text":"Nuxt SSR","textPreview":"Nuxt SSR","textChars":8,"textLines":1,"bbox":[542,340,134,32]}
+{"kind":"shape","id":"sh/sfqp83e9","slide":4,"bbox":[754,312,170,86]}
+{"kind":"textbox","id":"sh/dgjqh8vu","slide":4,"text":"Spring API","textPreview":"Spring API","textChars":10,"textLines":1,"bbox":[772,340,134,32]}
+{"kind":"shape","id":"sh/6d876tw3","slide":4,"bbox":[984,246,170,86]}
+{"kind":"textbox","id":"sh/reh8fydo","slide":4,"text":"PostgreSQL","textPreview":"PostgreSQL","textChars":10,"textLines":1,"bbox":[1002,274,134,32]}
+{"kind":"shape","id":"sh/4bqp4jed","slide":4,"bbox":[984,378,170,86]}
+{"kind":"textbox","id":"sh/5czqdovi","slide":4,"text":"Redis / файлы","textPreview":"Redis / файлы","textChars":13,"textLines":1,"bbox":[1002,406,134,32]}
+{"kind":"shape","id":"sh/i98729w7","slide":4,"bbox":[234,355,60,0]}
+{"kind":"shape","id":"sh/jah8beds","slide":4,"bbox":[464,355,60,0]}
+{"kind":"shape","id":"sh/o7u9gneh","slide":4,"bbox":[694,355,60,0]}
+{"kind":"shape","id":"sh/p83qpsv2","slide":4,"bbox":[924,324,60,0]}
+{"kind":"shape","id":"sh/x4zqt8n6","slide":4,"bbox":[924,390,60,0]}
+{"kind":"textbox","id":"sh/w3qp0nml","slide":4,"text":"API, авторизация, тесты, чат и прокторинг находятся на backend. Nuxt отдает SSR-страницы, поэтому поисковики видят основные страницы сайта.","textPreview":"API, авторизация, тесты, чат и прокторинг находятся на backend. Nuxt отдает SSR-страницы, поэтому поисковики видят основные страницы сайта.","textChars":139,"textLines":1,"bbox":[74,506,1060,76]}
+{"kind":"notes","id":"nt/fdt8b8","slide":4,"text":""}
+{"kind":"slide","id":"sl/jasdnc","slide":5,"title":"КАК ДЕЛАЛСЯ САЙТ","textShapes":18}
+{"kind":"textbox","id":"sh/xgjm987e","slide":5,"text":"КАК ДЕЛАЛСЯ САЙТ","textPreview":"КАК ДЕЛАЛСЯ САЙТ","textChars":16,"textLines":1,"bbox":[52,42,420,28]}
+{"kind":"textbox","id":"sh/adsneton","slide":5,"text":"Работа шла от ТЗ к живому деплою","textPreview":"Работа шла от ТЗ к живому деплою","textChars":32,"textLines":1,"bbox":[52,82,1120,94]}
+{"kind":"textbox","id":"sh/be147yp8","slide":5,"text":"invest-gold.asia  /  5","textPreview":"invest-gold.asia  /  5","textChars":22,"textLines":1,"bbox":[980,666,230,24]}
+{"kind":"shape","id":"sh/kju5k36p","slide":5,"bbox":[74,350,1060,0]}
+{"kind":"shape","id":"sh/lk3md87a","slide":5,"bbox":[78,330,40,40]}
+{"kind":"textbox","id":"sh/yhcnidoj","slide":5,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[88,337,20,22]}
+{"kind":"textbox","id":"sh/zil4bip4","slide":5,"text":"ТЗ и роли","textPreview":"ТЗ и роли","textChars":9,"textLines":1,"bbox":[68,396,160,34]}
+{"kind":"textbox","id":"sh/0nql8j6l","slide":5,"text":"Гость, студент, учитель, админ","textPreview":"Гость, студент, учитель, админ","textChars":30,"textLines":1,"bbox":[68,440,170,58]}
+{"kind":"shape","id":"sh/1ozm1o76","slide":5,"bbox":[290,330,40,40]}
+{"kind":"textbox","id":"sh/tw3mdo7u","slide":5,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[300,337,20,22]}
+{"kind":"textbox","id":"sh/svul4jq9","slide":5,"text":"Backend","textPreview":"Backend","textChars":7,"textLines":1,"bbox":[280,396,160,34]}
+{"kind":"textbox","id":"sh/7ul4bepo","slide":5,"text":"Курсы, уроки, тесты, прогресс","textPreview":"Курсы, уроки, тесты, прогресс","textChars":29,"textLines":1,"bbox":[280,440,170,58]}
+{"kind":"shape","id":"sh/6ts32983","slide":5,"bbox":[502,330,40,40]}
+{"kind":"textbox","id":"sh/h03mho7q","slide":5,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[512,337,20,22]}
+{"kind":"textbox","id":"sh/gzu58jq5","slide":5,"text":"Frontend","textPreview":"Frontend","textChars":8,"textLines":1,"bbox":[492,396,160,34]}
+{"kind":"textbox","id":"sh/fyl4fep0","slide":5,"text":"Nuxt-страницы, кабинеты, UX","textPreview":"Nuxt-страницы, кабинеты, UX","textChars":27,"textLines":1,"bbox":[492,440,170,58]}
+{"kind":"shape","id":"sh/uxcn6t8f","slide":5,"bbox":[714,330,40,40]}
+{"kind":"textbox","id":"sh/ponml872","slide":5,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[724,337,20,22]}
+{"kind":"textbox","id":"sh/4ne5c3qh","slide":5,"text":"Deploy","textPreview":"Deploy","textChars":6,"textLines":1,"bbox":[704,396,160,34]}
+{"kind":"textbox","id":"sh/o7mpo7yd","slide":5,"text":"AWS, Docker, HTTPS, домен","textPreview":"AWS, Docker, HTTPS, домен","textChars":25,"textLines":1,"bbox":[704,440,170,58]}
+{"kind":"shape","id":"sh/98v6hcfy","slide":5,"bbox":[926,330,40,40]}
+{"kind":"textbox","id":"sh/m5k7mxgn","slide":5,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[936,337,20,22]}
+{"kind":"textbox","id":"sh/n6dof2x8","slide":5,"text":"SEO","textPreview":"SEO","textChars":3,"textLines":1,"bbox":[916,396,160,34]}
+{"kind":"textbox","id":"sh/wvmpcryp","slide":5,"text":"Sitemap, robots, meta, schema","textPreview":"Sitemap, robots, meta, schema","textChars":29,"textLines":1,"bbox":[916,440,170,58]}
+{"kind":"notes","id":"nt/jasdnc","slide":5,"text":""}
+{"kind":"slide","id":"sl/clyu42","slide":6,"title":"КУРСЫ И ТЕСТЫ","textShapes":7}
+{"kind":"textbox","id":"sh/nutsbe14","slide":6,"text":"КУРСЫ И ТЕСТЫ","textPreview":"КУРСЫ И ТЕСТЫ","textChars":13,"textLines":1,"bbox":[52,42,420,28]}
+{"kind":"textbox","id":"sh/ov29kj2p","slide":6,"text":"Контент теперь хранится как реальные данные","textPreview":"Контент теперь хранится как реальные данные","textChars":43,"textLines":1,"bbox":[52,82,1120,94]}
+{"kind":"textbox","id":"sh/pwbadoju","slide":6,"text":"invest-gold.asia  /  6","textPreview":"invest-gold.asia  /  6","textChars":22,"textLines":1,"bbox":[980,666,230,24]}
+{"kind":"textbox","id":"sh/07i9gz2d","slide":6,"text":"Курсы","textPreview":"Курсы","textChars":5,"textLines":1,"bbox":[54,526,260,34]}
+{"kind":"textbox","id":"sh/18ra94jy","slide":6,"text":"Структура курса, уроки, длительность и прогресс считаются backend-ом.","textPreview":"Структура курса, уроки, длительность и прогресс считаются backend-ом.","textChars":69,"textLines":1,"bbox":[54,568,520,58]}
+{"kind":"textbox","id":"sh/y14rqtkr","slide":6,"text":"Тесты","textPreview":"Тесты","textChars":5,"textLines":1,"bbox":[704,526,260,34]}
+{"kind":"textbox","id":"sh/z2dsjy1c","slide":6,"text":"Попытки, баллы, средний результат и объяснения ошибок сохраняются в базе.","textPreview":"Попытки, баллы, средний результат и объяснения ошибок сохраняются в базе.","textChars":73,"textLines":1,"bbox":[704,568,520,58]}
+{"kind":"image","id":"im/j25k3ydc","slide":6,"name":"","geometry":"roundRect","alt":"Курсы KTA Study","bbox":[54,190,520,312]}
+{"kind":"image","id":"im/y1w3adwr","slide":6,"name":"","geometry":"roundRect","alt":"Тесты KTA Study","bbox":[704,190,520,312]}
+{"kind":"notes","id":"nt/clyu42","slide":6,"text":""}
+{"kind":"slide","id":"sl/40w9ol","slide":7,"title":"ФУНКЦИИ","textShapes":11}
+{"kind":"textbox","id":"sh/zuxoba5w","slide":7,"text":"ФУНКЦИИ","textPreview":"ФУНКЦИИ","textChars":7,"textLines":1,"bbox":[52,42,420,28]}
+{"kind":"textbox","id":"sh/0v65kf6h","slide":7,"text":"Платформа работает как учебный кабинет","textPreview":"Платформа работает как учебный кабинет","textChars":38,"textLines":1,"bbox":[52,82,1120,94]}
+{"kind":"textbox","id":"sh/1gf6dkn2","slide":7,"text":"invest-gold.asia  /  7","textPreview":"invest-gold.asia  /  7","textChars":22,"textLines":1,"bbox":[980,666,230,24]}
+{"kind":"shape","id":"sh/rqxo7a50","slide":7,"bbox":[654,184,560,74]}
+{"kind":"textbox","id":"sh/cr65gf6l","slide":7,"text":"Учительский кабинет","textPreview":"Учительский кабинет","textChars":19,"textLines":1,"bbox":[678,198,240,26]}
+{"kind":"textbox","id":"sh/dsf69kn6","slide":7,"text":"Создание тестов, вопросов, вариантов и публикация","textPreview":"Создание тестов, вопросов, вариантов и публикация","textChars":49,"textLines":1,"bbox":[678,227,500,22]}
+{"kind":"shape","id":"sh/2l4naloj","slide":7,"bbox":[654,280,560,74]}
+{"kind":"textbox","id":"sh/3mdo3qpo","slide":7,"text":"Прокторинг","textPreview":"Прокторинг","textChars":10,"textLines":1,"bbox":[678,294,240,26]}
+{"kind":"textbox","id":"sh/fuxk761c","slide":7,"text":"Полный экран, камера, аудио, журнал нарушений","textPreview":"Полный экран, камера, аудио, журнал нарушений","textChars":45,"textLines":1,"bbox":[678,323,500,22]}
+{"kind":"shape","id":"sh/et43y10r","slide":7,"bbox":[654,376,560,74]}
+{"kind":"textbox","id":"sh/1wf29gji","slide":7,"text":"Чат","textPreview":"Чат","textChars":3,"textLines":1,"bbox":[678,390,240,26]}
+{"kind":"textbox","id":"sh/gv6l0bix","slide":7,"text":"WebSocket-чат с именем и ролью пользователя","textPreview":"WebSocket-чат с именем и ролью пользователя","textChars":43,"textLines":1,"bbox":[678,419,500,22]}
+{"kind":"shape","id":"sh/3yxkbq1o","slide":7,"bbox":[654,472,560,74]}
+{"kind":"textbox","id":"sh/2xo32l03","slide":7,"text":"Админка","textPreview":"Админка","textChars":7,"textLines":1,"bbox":[678,486,240,26]}
+{"kind":"textbox","id":"sh/p0f2dgje","slide":7,"text":"Пользователи, роли, контент и модерация","textPreview":"Пользователи, роли, контент и модерация","textChars":39,"textLines":1,"bbox":[678,515,500,22]}
+{"kind":"image","id":"im/3m1cbudg","slide":7,"name":"","geometry":"roundRect","alt":"Страница теста KTA Study","bbox":[52,184,548,382]}
+{"kind":"notes","id":"nt/40w9ol","slide":7,"text":""}
+{"kind":"slide","id":"sl/5qkicv","slide":8,"title":"SEO И ПОИСК","textShapes":14}
+{"kind":"textbox","id":"sh/jixcfmds","slide":8,"text":"SEO И ПОИСК","textPreview":"SEO И ПОИСК","textChars":11,"textLines":1,"bbox":[52,42,420,28]}
+{"kind":"textbox","id":"sh/kj6torud","slide":8,"text":"Сайт уже виден поисковикам и подготовлен к росту","textPreview":"Сайт уже виден поисковикам и подготовлен к росту","textChars":48,"textLines":1,"bbox":[52,82,1120,94]}
+{"kind":"textbox","id":"sh/l4zuhwvy","slide":8,"text":"invest-gold.asia  /  8","textPreview":"invest-gold.asia  /  8","textChars":22,"textLines":1,"bbox":[980,666,230,24]}
+{"kind":"textbox","id":"sh/adobihcb","slide":8,"text":"Настроены SSR-страницы Nuxt, sitemap.xml, robots.txt, meta description, canonical URL и schema-разметка для курсов и тестов.","textPreview":"Настроены SSR-страницы Nuxt, sitemap.xml, robots.txt, meta description, canonical URL и schema-разметка для курсов и тестов.","textChars":124,"textLines":1,"bbox":[52,188,540,112]}
+{"kind":"textbox","id":"sh/bexcbmdw","slide":8,"text":"В поиске сайт уже отображается по брендовым и прямым запросам. Для топа по широкому запросу «подготовка к КТА магистратура» дальше работают контент, индексация и ссылки.","textPreview":"В поиске сайт уже отображается по брендовым и прямым запросам. Для топа по широкому запросу «подготовка к КТА магистратура» дальше работа...","textChars":169,"textLines":1,"bbox":[52,334,540,128]}
+{"kind":"shape","id":"sh/wf6tkruh","slide":8,"bbox":[668,190,226,126]}
+{"kind":"textbox","id":"sh/xgfudcv2","slide":8,"text":"HTTPS","textPreview":"HTTPS","textChars":5,"textLines":1,"bbox":[690,214,170,36]}
+{"kind":"textbox","id":"sh/m94bexcf","slide":8,"text":"сертификат и домен","textPreview":"сертификат и домен","textChars":18,"textLines":1,"bbox":[690,264,170,32]}
+{"kind":"shape","id":"sh/nads72dk","slide":8,"bbox":[928,190,226,126]}
+{"kind":"textbox","id":"sh/jqp4zy5k","slide":8,"text":"Sitemap","textPreview":"Sitemap","textChars":7,"textLines":1,"bbox":[950,214,170,36]}
+{"kind":"textbox","id":"sh/ipgn6t4z","slide":8,"text":"страницы курсов и тестов","textPreview":"страницы курсов и тестов","textChars":24,"textLines":1,"bbox":[950,264,170,32]}
+{"kind":"shape","id":"sh/5s7618nq","slide":8,"bbox":[668,360,226,126]}
+{"kind":"textbox","id":"sh/kry583m5","slide":8,"text":"Robots","textPreview":"Robots","textChars":6,"textLines":1,"bbox":[690,384,170,36]}
+{"kind":"textbox","id":"sh/7u9o3i5w","slide":8,"text":"открытая индексация","textPreview":"открытая индексация","textChars":19,"textLines":1,"bbox":[690,434,170,32]}
+{"kind":"shape","id":"sh/6t0nad4b","slide":8,"bbox":[928,360,226,126]}
+{"kind":"textbox","id":"sh/twr658nm","slide":8,"text":"Schema","textPreview":"Schema","textChars":6,"textLines":1,"bbox":[950,384,170,36]}
+{"kind":"textbox","id":"sh/svi5c3mh","slide":8,"text":"Course, Quiz, ItemList","textPreview":"Course, Quiz, ItemList","textChars":22,"textLines":1,"bbox":[950,434,170,32]}
+{"kind":"textbox","id":"sh/ny54re5c","slide":8,"text":"Источник структуры КТ: Национальный центр тестирования","textPreview":"Источник структуры КТ: Национальный центр тестирования","textChars":54,"textLines":1,"bbox":[52,626,760,24]}
+{"kind":"notes","id":"nt/5qkicv","slide":8,"text":""}
+{"kind":"slide","id":"sl/9j4at1","slide":9,"title":"РЕЗУЛЬТАТ","textShapes":12}
+{"kind":"textbox","id":"sh/n29w3a5g","slide":9,"text":"РЕЗУЛЬТАТ","textPreview":"РЕЗУЛЬТАТ","textChars":9,"textLines":1,"bbox":[52,42,420,28]}
+{"kind":"textbox","id":"sh/8nidwf61","slide":9,"text":"На сервере запущена полноценная MVP-платформа","textPreview":"На сервере запущена полноценная MVP-платформа","textChars":45,"textLines":1,"bbox":[52,82,1120,94]}
+{"kind":"textbox","id":"sh/9ore5knm","slide":9,"text":"invest-gold.asia  /  9","textPreview":"invest-gold.asia  /  9","textChars":22,"textLines":1,"bbox":[980,666,230,24]}
+{"kind":"shape","id":"sh/yxgvq5oz","slide":9,"bbox":[52,218,250,156]}
+{"kind":"textbox","id":"sh/zypczq5k","slide":9,"text":"AWS","textPreview":"AWS","textChars":3,"textLines":1,"bbox":[76,244,202,64]}
+{"kind":"textbox","id":"sh/0zydsv65","slide":9,"text":"Ubuntu server, Docker Compose, Caddy HTTPS","textPreview":"Ubuntu server, Docker Compose, Caddy HTTPS","textChars":42,"textLines":1,"bbox":[76,316,202,42]}
+{"kind":"shape","id":"sh/l0ru10na","slide":9,"bbox":[334,218,250,156]}
+{"kind":"textbox","id":"sh/itkv2p43","slide":9,"text":"3 роли","textPreview":"3 роли","textChars":6,"textLines":1,"bbox":[358,244,202,64]}
+{"kind":"textbox","id":"sh/jutwbu5o","slide":9,"text":"Student, Teacher, Admin","textPreview":"Student, Teacher, Admin","textChars":23,"textLines":1,"bbox":[358,316,202,42]}
+{"kind":"shape","id":"sh/7ixwne1c","slide":9,"bbox":[616,218,250,156]}
+{"kind":"textbox","id":"sh/mhofu90r","slide":9,"text":"30","textPreview":"30","textChars":2,"textLines":1,"bbox":[640,244,202,64]}
+{"kind":"textbox","id":"sh/94fepoji","slide":9,"text":"вопросов в новых тестах","textPreview":"вопросов в новых тестах","textChars":23,"textLines":1,"bbox":[640,316,202,42]}
+{"kind":"shape","id":"sh/836xwjix","slide":9,"bbox":[898,218,250,156]}
+{"kind":"textbox","id":"sh/v6xwry18","slide":9,"text":"120","textPreview":"120","textChars":3,"textLines":1,"bbox":[922,244,202,64]}
+{"kind":"textbox","id":"sh/u5ofyt0n","slide":9,"text":"вариантов ответа","textPreview":"вариантов ответа","textChars":16,"textLines":1,"bbox":[922,316,202,42]}
+{"kind":"textbox","id":"sh/h8zetoje","slide":9,"text":"Главное: сайт не просто выглядит как учебная платформа. Backend реально хранит курсы, уроки, тесты, попытки, прогресс, чат и прокторинг.","textPreview":"Главное: сайт не просто выглядит как учебная платформа. Backend реально хранит курсы, уроки, тесты, попытки, прогресс, чат и прокторинг.","textChars":136,"textLines":1,"bbox":[76,470,1020,94]}
+{"kind":"notes","id":"nt/9j4at1","slide":9,"text":""}
+{"kind":"slide","id":"sl/71cspe","slide":10,"title":"РОЛИ","textShapes":11}
+{"kind":"textbox","id":"sh/l43a1kfi","slide":10,"text":"РОЛИ","textPreview":"РОЛИ","textChars":4,"textLines":1,"bbox":[52,42,420,28]}
+{"kind":"textbox","id":"sh/y1cb65g7","slide":10,"text":"У каждого пользователя свой доступ и кабинет","textPreview":"У каждого пользователя свой доступ и кабинет","textChars":44,"textLines":1,"bbox":[52,82,1120,94]}
+{"kind":"textbox","id":"sh/z2lszahc","slide":10,"text":"invest-gold.asia  /  10","textPreview":"invest-gold.asia  /  10","textChars":23,"textLines":1,"bbox":[980,666,230,24]}
+{"kind":"shape","id":"sh/czut4fy1","slide":10,"bbox":[52,210,540,150]}
+{"kind":"textbox","id":"sh/d03axkzm","slide":10,"text":"Гость","textPreview":"Гость","textChars":5,"textLines":1,"bbox":[80,234,430,38]}
+{"kind":"textbox","id":"sh/qxsb25gv","slide":10,"text":"Смотрит главную, блог, демо-тесты и может зарегистрироваться.","textPreview":"Смотрит главную, блог, демо-тесты и может зарегистрироваться.","textChars":61,"textLines":1,"bbox":[80,288,480,48]}
+{"kind":"shape","id":"sh/by1svahg","slide":10,"bbox":[666,210,540,150]}
+{"kind":"textbox","id":"sh/wvetgzy5","slide":10,"text":"Ученик / Student","textPreview":"Ученик / Student","textChars":16,"textLines":1,"bbox":[694,234,430,38]}
+{"kind":"textbox","id":"sh/xwnu94fq","slide":10,"text":"Открывает бесплатные курсы, проходит уроки и тесты, видит реальный прогресс.","textPreview":"Открывает бесплатные курсы, проходит уроки и тесты, видит реальный прогресс.","textChars":76,"textLines":1,"bbox":[694,288,480,48]}
+{"kind":"shape","id":"sh/xgzi18ve","slide":10,"bbox":[52,420,540,150]}
+{"kind":"textbox","id":"sh/wf61s3u9","slide":10,"text":"Учитель / Teacher","textPreview":"Учитель / Teacher","textChars":17,"textLines":1,"bbox":[80,444,430,38]}
+{"kind":"textbox","id":"sh/vex0zydo","slide":10,"text":"Создает тесты, вопросы, варианты, объяснения и смотрит результаты студентов.","textPreview":"Создает тесты, вопросы, варианты, объяснения и смотрит результаты студентов.","textChars":76,"textLines":1,"bbox":[80,498,480,48]}
+{"kind":"shape","id":"sh/adojqtc3","slide":10,"bbox":[666,420,540,150]}
+{"kind":"textbox","id":"sh/9cfixovi","slide":10,"text":"Админ / Admin","textPreview":"Админ / Admin","textChars":13,"textLines":1,"bbox":[694,444,430,38]}
+{"kind":"textbox","id":"sh/ob6ho3ex","slide":10,"text":"Управляет пользователями, назначает учителей и модерирует весь контент.","textPreview":"Управляет пользователями, назначает учителей и модерирует весь контент.","textChars":71,"textLines":1,"bbox":[694,498,480,48]}
+{"kind":"notes","id":"nt/71cspe","slide":10,"text":""}
+{"kind":"slide","id":"sl/pk6mbx","slide":11,"title":"DOCKER + CADDY","textShapes":24}
+{"kind":"textbox","id":"sh/43q1wfat","slide":11,"text":"DOCKER + CADDY","textPreview":"DOCKER + CADDY","textChars":14,"textLines":1,"bbox":[52,42,420,28]}
+{"kind":"textbox","id":"sh/j2hkna98","slide":11,"text":"Контейнеры и HTTPS держат проект на сервере","textPreview":"Контейнеры и HTTPS держат проект на сервере","textChars":43,"textLines":1,"bbox":[52,82,1120,94]}
+{"kind":"textbox","id":"sh/i1oju5sn","slide":11,"text":"invest-gold.asia  /  11","textPreview":"invest-gold.asia  /  11","textChars":23,"textLines":1,"bbox":[980,666,230,24]}
+{"kind":"shape","id":"sh/hgf2l0r2","slide":11,"bbox":[52,190,552,410]}
+{"kind":"textbox","id":"sh/wf61svah","slide":11,"text":"Docker Compose","textPreview":"Docker Compose","textChars":14,"textLines":1,"bbox":[82,220,360,42]}
+{"kind":"textbox","id":"sh/vex0jq9w","slide":11,"text":"Проект запущен как набор сервисов: frontend, backend, база, Redis и Caddy.","textPreview":"Проект запущен как набор сервисов: frontend, backend, база, Redis и Caddy.","textChars":74,"textLines":1,"bbox":[84,272,450,52]}
+{"kind":"shape","id":"sh/udojq5sb","slide":11,"bbox":[86,350,214,72]}
+{"kind":"textbox","id":"sh/9cfih0r6","slide":11,"text":"caddy:2-alpine","textPreview":"caddy:2-alpine","textChars":14,"textLines":1,"bbox":[104,363,170,26]}
+{"kind":"textbox","id":"sh/8b61oval","slide":11,"text":"80 / 443, HTTPS","textPreview":"80 / 443, HTTPS","textChars":15,"textLines":1,"bbox":[104,392,170,20]}
+{"kind":"shape","id":"sh/q18b6xsz","slide":11,"bbox":[338,350,214,72]}
+{"kind":"textbox","id":"sh/b2hsz2tk","slide":11,"text":"frontend","textPreview":"frontend","textChars":8,"textLines":1,"bbox":[356,363,170,26]}
+{"kind":"textbox","id":"sh/c3qt87a5","slide":11,"text":"Nuxt SSR :3000","textPreview":"Nuxt SSR :3000","textChars":14,"textLines":1,"bbox":[356,392,170,20]}
+{"kind":"shape","id":"sh/d4za1cbq","slide":11,"bbox":[86,450,214,72]}
+{"kind":"textbox","id":"sh/2dob2xs3","slide":11,"text":"backend","textPreview":"backend","textChars":7,"textLines":1,"bbox":[104,463,170,26]}
+{"kind":"textbox","id":"sh/3ehsv2to","slide":11,"text":"Spring API :8080","textPreview":"Spring API :8080","textChars":16,"textLines":1,"bbox":[104,492,170,20]}
+{"kind":"shape","id":"sh/ozqt4na9","slide":11,"bbox":[338,450,214,72]}
+{"kind":"textbox","id":"sh/p0zaxsbu","slide":11,"text":"postgres + redis","textPreview":"postgres + redis","textChars":16,"textLines":1,"bbox":[356,463,170,26]}
+{"kind":"textbox","id":"sh/e9obyds7","slide":11,"text":"данные и cache","textPreview":"данные и cache","textChars":14,"textLines":1,"bbox":[356,492,170,20]}
+{"kind":"shape","id":"sh/faxsritc","slide":11,"bbox":[676,190,552,410]}
+{"kind":"textbox","id":"sh/jet8ze94","slide":11,"text":"Caddy HTTPS","textPreview":"Caddy HTTPS","textChars":11,"textLines":1,"bbox":[706,220,330,42]}
+{"kind":"textbox","id":"sh/idk7698z","slide":11,"text":"Caddy стоит перед сайтом как reverse proxy и сам обслуживает HTTPS-сертификат для домена.","textPreview":"Caddy стоит перед сайтом как reverse proxy и сам обслуживает HTTPS-сертификат для домена.","textChars":89,"textLines":1,"bbox":[708,272,442,58]}
+{"kind":"shape","id":"sh/5gvq1ora","slide":11,"bbox":[708,354,178,34]}
+{"kind":"textbox","id":"sh/4fmpsjqp","slide":11,"text":"/api/*","textPreview":"/api/*","textChars":6,"textLines":1,"bbox":[724,362,130,18]}
+{"kind":"shape","id":"sh/rid83y9g","slide":11,"bbox":[900,371,74,0]}
+{"kind":"textbox","id":"sh/6h47ut8v","slide":11,"text":"backend:8080","textPreview":"backend:8080","textChars":12,"textLines":1,"bbox":[990,361,170,20]}
+{"kind":"shape","id":"sh/tkvq5orm","slide":11,"bbox":[708,402,178,34]}
+{"kind":"textbox","id":"sh/sjm9wjq1","slide":11,"text":"/ws/*","textPreview":"/ws/*","textChars":5,"textLines":1,"bbox":[724,410,130,18]}
+{"kind":"shape","id":"sh/7m98ru9w","slide":11,"bbox":[900,419,74,0]}
+{"kind":"textbox","id":"sh/ml07yp8r","slide":11,"text":"backend:8080","textPreview":"backend:8080","textChars":12,"textLines":1,"bbox":[990,409,170,20]}
+{"kind":"shape","id":"sh/cry5sv69","slide":11,"bbox":[708,450,178,34]}
+{"kind":"textbox","id":"sh/ds7m107u","slide":11,"text":"/api/session/*","textPreview":"/api/session/*","textChars":14,"textLines":1,"bbox":[724,458,130,18]}
+{"kind":"shape","id":"sh/qpgnqloj","slide":11,"bbox":[900,467,74,0]}
+{"kind":"textbox","id":"sh/bqp4zqpo","slide":11,"text":"frontend:3000","textPreview":"frontend:3000","textChars":13,"textLines":1,"bbox":[990,457,170,20]}
+{"kind":"shape","id":"sh/one5ov6d","slide":11,"bbox":[708,498,178,34]}
+{"kind":"textbox","id":"sh/po7mxg7y","slide":11,"text":"site pages","textPreview":"site pages","textChars":10,"textLines":1,"bbox":[724,506,130,18]}
+{"kind":"shape","id":"sh/2lwnmlo7","slide":11,"bbox":[900,515,74,0]}
+{"kind":"textbox","id":"sh/3m54vqps","slide":11,"text":"frontend:3000","textPreview":"frontend:3000","textChars":13,"textLines":1,"bbox":[990,505,170,20]}
+{"kind":"shape","id":"sh/8ji50f6h","slide":11,"bbox":[708,548,472,42]}
+{"kind":"textbox","id":"sh/9kr69k72","slide":11,"text":"proctoring-data -> /app/data/proctoring","textPreview":"proctoring-data -> /app/data/proctoring","textChars":39,"textLines":1,"bbox":[730,560,400,20]}
+{"kind":"notes","id":"nt/pk6mbx","slide":11,"text":""}
+{"kind":"slide","id":"sl/90sl71","slide":12,"title":"ПРОКТОРИНГ","textShapes":24}
+{"kind":"textbox","id":"sh/wja54fa9","slide":12,"text":"ПРОКТОРИНГ","textPreview":"ПРОКТОРИНГ","textChars":10,"textLines":1,"bbox":[52,42,420,28]}
+{"kind":"textbox","id":"sh/vy1ovato","slide":12,"text":"Контроль теста записывает видео, аудио и нарушения","textPreview":"Контроль теста записывает видео, аудио и нарушения","textChars":50,"textLines":1,"bbox":[52,82,1120,94]}
+{"kind":"textbox","id":"sh/axsn25s3","slide":12,"text":"invest-gold.asia  /  12","textPreview":"invest-gold.asia  /  12","textChars":23,"textLines":1,"bbox":[980,666,230,24]}
+{"kind":"shape","id":"sh/5o361kbq","slide":12,"bbox":[52,194,360,372]}
+{"kind":"textbox","id":"sh/knu58fa5","slide":12,"text":"Студент проходит тест","textPreview":"Студент проходит тест","textChars":21,"textLines":1,"bbox":[82,224,260,34]}
+{"kind":"textbox","id":"sh/jmlozatk","slide":12,"text":"Перед стартом даёт согласие на запись. Браузер включает полный экран, камеру и микрофон.","textPreview":"Перед стартом даёт согласие на запись. Браузер включает полный экран, камеру и микрофон.","textChars":88,"textLines":1,"bbox":[84,280,280,92]}
+{"kind":"shape","id":"sh/ilsn6psf","slide":12,"bbox":[98,414,112,78]}
+{"kind":"textbox","id":"sh/ts3654b2","slide":12,"text":"CAM","textPreview":"CAM","textChars":3,"textLines":1,"bbox":[126,435,60,24]}
+{"kind":"shape","id":"sh/srupczah","slide":12,"bbox":[244,414,112,78]}
+{"kind":"textbox","id":"sh/ilsbelgr","slide":12,"text":"MIC","textPreview":"MIC","textChars":3,"textLines":1,"bbox":[272,435,60,24]}
+{"kind":"shape","id":"sh/3m1s76xc","slide":12,"bbox":[470,232,46,46]}
+{"kind":"textbox","id":"sh/4natgbyx","slide":12,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[483,242,20,22]}
+{"kind":"shape","id":"sh/5oja9gfi","slide":12,"bbox":[524,255,110,0]}
+{"kind":"textbox","id":"sh/qpsbilg3","slide":12,"text":"Start","textPreview":"Start","textChars":5,"textLines":1,"bbox":[460,304,140,26]}
+{"kind":"textbox","id":"sh/rqlsbqx8","slide":12,"text":"создаётся proctoring session","textPreview":"создаётся proctoring session","textChars":28,"textLines":1,"bbox":[442,338,172,50]}
+{"kind":"shape","id":"sh/srutkvyt","slide":12,"bbox":[646,232,46,46]}
+{"kind":"textbox","id":"sh/ds3ad0fe","slide":12,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[659,242,20,22]}
+{"kind":"shape","id":"sh/6t8r61gj","slide":12,"bbox":[700,255,110,0]}
+{"kind":"textbox","id":"sh/7uhszmh4","slide":12,"text":"Events","textPreview":"Events","textChars":6,"textLines":1,"bbox":[636,304,140,26]}
+{"kind":"textbox","id":"sh/byd87ixw","slide":12,"text":"фиксируются нарушения","textPreview":"фиксируются нарушения","textChars":21,"textLines":1,"bbox":[618,338,172,50]}
+{"kind":"shape","id":"sh/ax47exwb","slide":12,"bbox":[822,232,46,46]}
+{"kind":"textbox","id":"sh/x0fq9sv2","slide":12,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[835,242,20,22]}
+{"kind":"shape","id":"sh/wzmpgneh","slide":12,"bbox":[876,255,110,0]}
+{"kind":"textbox","id":"sh/nudo3ix0","slide":12,"text":"Upload","textPreview":"Upload","textChars":6,"textLines":1,"bbox":[812,304,140,26]}
+{"kind":"textbox","id":"sh/m947adwf","slide":12,"text":"запись уходит на backend","textPreview":"запись уходит на backend","textChars":24,"textLines":1,"bbox":[794,338,172,50]}
+{"kind":"shape","id":"sh/9wv65sfq","slide":12,"bbox":[998,232,46,46]}
+{"kind":"textbox","id":"sh/ovmpcnel","slide":12,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[1011,242,20,22]}
+{"kind":"textbox","id":"sh/7qx8fmd4","slide":12,"text":"Teacher","textPreview":"Teacher","textChars":7,"textLines":1,"bbox":[988,304,140,26]}
+{"kind":"textbox","id":"sh/6po7mhwj","slide":12,"text":"учитель смотрит запись и журнал","textPreview":"учитель смотрит запись и журнал","textChars":31,"textLines":1,"bbox":[970,338,172,50]}
+{"kind":"shape","id":"sh/4bi5gzu1","slide":12,"bbox":[470,448,340,140]}
+{"kind":"textbox","id":"sh/pcrm94vm","slide":12,"text":"Видео и аудио","textPreview":"Видео и аудио","textChars":13,"textLines":1,"bbox":[498,470,240,28]}
+{"kind":"textbox","id":"sh/2903e9cv","slide":12,"text":"Файлы WebM/MP4 сохраняются в data/proctoring, на сервере Docker volume: proctoring-data.","textPreview":"Файлы WebM/MP4 сохраняются в data/proctoring, на сервере Docker volume: proctoring-data.","textChars":88,"textLines":1,"bbox":[498,512,270,50]}
+{"kind":"shape","id":"sh/3a947edg","slide":12,"bbox":[850,448,330,140]}
+{"kind":"textbox","id":"sh/cfi5kjud","slide":12,"text":"Журнал нарушений","textPreview":"Журнал нарушений","textChars":16,"textLines":1,"bbox":[878,470,240,28]}
+{"kind":"textbox","id":"sh/d0bmdovi","slide":12,"text":"События хранятся в PostgreSQL: TAB_HIDDEN, WINDOW_BLUR, FULLSCREEN_EXIT, COPY/PASTE.","textPreview":"События хранятся в PostgreSQL: TAB_HIDDEN, WINDOW_BLUR, FULLSCREEN_EXIT, COPY/PASTE.","textChars":84,"textLines":1,"bbox":[878,512,260,52]}
+{"kind":"textbox","id":"sh/qd0ni9c7","slide":12,"text":"Доступ к записям есть у учителя своего теста и у администратора.","textPreview":"Доступ к записям есть у учителя своего теста и у администратора.","textChars":64,"textLines":1,"bbox":[52,626,760,24]}
+{"kind":"notes","id":"nt/90sl71","slide":12,"text":""}
+{"kind":"slide","id":"sl/64dovi","slide":13,"title":"ЧАТ","textShapes":26}
+{"kind":"textbox","id":"sh/kzy98fq1","slide":13,"text":"ЧАТ","textPreview":"ЧАТ","textChars":3,"textLines":1,"bbox":[52,42,420,28]}
+{"kind":"textbox","id":"sh/jepsza9w","slide":13,"text":"Мини-чат работает в реальном времени через WebSocket","textPreview":"Мини-чат работает в реальном времени через WebSocket","textChars":52,"textLines":1,"bbox":[52,82,1120,94]}
+{"kind":"textbox","id":"sh/idgr658b","slide":13,"text":"invest-gold.asia  /  13","textPreview":"invest-gold.asia  /  13","textChars":23,"textLines":1,"bbox":[980,666,230,24]}
+{"kind":"shape","id":"sh/t4ra5k7y","slide":13,"bbox":[52,178,394,444]}
+{"kind":"textbox","id":"sh/s3i9cfqd","slide":13,"text":"Чат справа снизу","textPreview":"Чат справа снизу","textChars":16,"textLines":1,"bbox":[82,210,260,34]}
+{"kind":"textbox","id":"sh/72ps3aps","slide":13,"text":"Пользователь открывает круг в углу сайта. Внутри видит историю, имя, роль и статус подключения.","textPreview":"Пользователь открывает круг в углу сайта. Внутри видит историю, имя, роль и статус подключения.","textChars":95,"textLines":1,"bbox":[84,260,280,74]}
+{"kind":"shape","id":"sh/61gra587","slide":13,"bbox":[96,360,288,188]}
+{"kind":"textbox","id":"sh/98nat0re","slide":13,"text":"Чат","textPreview":"Чат","textChars":3,"textLines":1,"bbox":[118,382,70,22]}
+{"kind":"textbox","id":"sh/87e90vq9","slide":13,"text":"Саламат · STUDENT · онлайн","textPreview":"Саламат · STUDENT · онлайн","textChars":26,"textLines":1,"bbox":[118,410,190,18]}
+{"kind":"shape","id":"sh/atcj2tcr","slide":13,"bbox":[118,448,190,34]}
+{"kind":"textbox","id":"sh/bul0vytc","slide":13,"text":"Студент: вопрос по тесту","textPreview":"Студент: вопрос по тесту","textChars":24,"textLines":1,"bbox":[132,457,150,16]}
+{"kind":"shape","id":"sh/wve143uh","slide":13,"bbox":[164,492,188,34]}
+{"kind":"textbox","id":"sh/xwn2xob2","slide":13,"text":"Учитель: отвечаю","textPreview":"Учитель: отвечаю","textChars":16,"textLines":1,"bbox":[178,501,140,16]}
+{"kind":"shape","id":"sh/yxwj6tsn","slide":13,"bbox":[506,218,136,82]}
+{"kind":"textbox","id":"sh/jy5kzyt8","slide":13,"text":"Frontend","textPreview":"Frontend","textChars":8,"textLines":1,"bbox":[520,235,108,24]}
+{"kind":"textbox","id":"sh/kze183at","slide":13,"text":"MiniChat.vue","textPreview":"MiniChat.vue","textChars":12,"textLines":1,"bbox":[518,266,112,18]}
+{"kind":"shape","id":"sh/l0n218be","slide":13,"bbox":[652,259,44,0]}
+{"kind":"shape","id":"sh/61wjadsz","slide":13,"bbox":[678,218,136,82]}
+{"kind":"textbox","id":"sh/7mpk3it4","slide":13,"text":"WS","textPreview":"WS","textChars":2,"textLines":1,"bbox":[692,235,108,24]}
+{"kind":"textbox","id":"sh/3qp0ri9c","slide":13,"text":"/ws/chat","textPreview":"/ws/chat","textChars":8,"textLines":1,"bbox":[690,266,112,18]}
+{"kind":"shape","id":"sh/ipgjyd8r","slide":13,"bbox":[824,259,44,0]}
+{"kind":"shape","id":"sh/5s7itsri","slide":13,"bbox":[850,218,136,82]}
+{"kind":"textbox","id":"sh/4ry10nqx","slide":13,"text":"Backend","textPreview":"Backend","textChars":7,"textLines":1,"bbox":[864,235,108,24]}
+{"kind":"textbox","id":"sh/v2p0ny9g","slide":13,"text":"Spring handler","textPreview":"Spring handler","textChars":14,"textLines":1,"bbox":[862,266,112,18]}
+{"kind":"shape","id":"sh/u1wzut8v","slide":13,"bbox":[996,259,44,0]}
+{"kind":"shape","id":"sh/ho7ip8r6","slide":13,"bbox":[1022,218,136,82]}
+{"kind":"textbox","id":"sh/g3yhw3q1","slide":13,"text":"DB","textPreview":"DB","textChars":2,"textLines":1,"bbox":[1036,235,108,24]}
+{"kind":"textbox","id":"sh/7y50jy94","slide":13,"text":"chat_messages","textPreview":"chat_messages","textChars":13,"textLines":1,"bbox":[1034,266,112,18]}
+{"kind":"shape","id":"sh/6xwzqt8j","slide":13,"bbox":[506,358,306,88]}
+{"kind":"textbox","id":"sh/w3ux0z6h","slide":13,"text":"Авторизация","textPreview":"Авторизация","textChars":11,"textLines":1,"bbox":[526,374,180,24]}
+{"kind":"textbox","id":"sh/x43yt472","slide":13,"text":"Handshake проверяет JWT cookie или Bearer token. Без входа чат не подключается.","textPreview":"Handshake проверяет JWT cookie или Bearer token. Без входа чат не подключается.","textChars":79,"textLines":1,"bbox":[526,404,252,28]}
+{"kind":"shape","id":"sh/a1sfypob","slide":13,"bbox":[864,358,306,88]}
+{"kind":"textbox","id":"sh/b2lgrupw","slide":13,"text":"История","textPreview":"История","textChars":7,"textLines":1,"bbox":[884,374,180,24]}
+{"kind":"textbox","id":"sh/k7uxoz6t","slide":13,"text":"При подключении backend отправляет последние 80 сообщений.","textPreview":"При подключении backend отправляет последние 80 сообщений.","textChars":58,"textLines":1,"bbox":[884,404,252,28]}
+{"kind":"shape","id":"sh/l83yx47y","slide":13,"bbox":[506,484,306,88]}
+{"kind":"textbox","id":"sh/y5cfm9on","slide":13,"text":"Реальное время","textPreview":"Реальное время","textChars":14,"textLines":1,"bbox":[526,500,180,24]}
+{"kind":"textbox","id":"sh/j6lgvup8","slide":13,"text":"Новое сообщение сохраняется и сразу рассылается всем открытым WebSocket-сессиям.","textPreview":"Новое сообщение сохраняется и сразу рассылается всем открытым WebSocket-сессиям.","textChars":80,"textLines":1,"bbox":[526,530,252,28]}
+{"kind":"shape","id":"sh/0baxsf69","slide":13,"bbox":[864,484,306,88]}
+{"kind":"textbox","id":"sh/1cjelk7u","slide":13,"text":"Fallback","textPreview":"Fallback","textChars":8,"textLines":1,"bbox":[884,500,180,24]}
+{"kind":"textbox","id":"sh/t4fyh4ba","slide":13,"text":"Если WebSocket недоступен, работает REST: GET/POST /api/chat/messages.","textPreview":"Если WebSocket недоступен, работает REST: GET/POST /api/chat/messages.","textChars":70,"textLines":1,"bbox":[884,530,252,28]}
+{"kind":"textbox","id":"sh/s3mx8za5","slide":13,"text":"В базе хранится user_id, message и created_at; в интерфейсе показываются senderName, senderRole и mine.","textPreview":"В базе хранится user_id, message и created_at; в интерфейсе показываются senderName, senderRole и mine.","textChars":103,"textLines":1,"bbox":[506,612,650,24]}
+{"kind":"notes","id":"nt/64dovi","slide":13,"text":""}
+{"kind":"slide","id":"sl/i5sq7p","slide":14,"title":"Проект сделал","textShapes":5}
+{"kind":"textbox","id":"sh/5czilkbm","slide":14,"text":"Проект сделал","textPreview":"Проект сделал","textChars":13,"textLines":1,"bbox":[52,70,520,58]}
+{"kind":"textbox","id":"sh/i98jq5sv","slide":14,"text":"Саламат Торахмет","textPreview":"Саламат Торахмет","textChars":16,"textLines":1,"bbox":[52,176,660,104]}
+{"kind":"textbox","id":"sh/3ah0jatg","slide":14,"text":"KTA Study - бесплатная подготовка к КТА в магистратуру","textPreview":"KTA Study - бесплатная подготовка к КТА в магистратуру","textChars":54,"textLines":1,"bbox":[56,324,620,70]}
+{"kind":"textbox","id":"sh/g761ofa5","slide":14,"text":"https://invest-gold.asia","textPreview":"https://invest-gold.asia","textChars":24,"textLines":1,"bbox":[56,392,520,38]}
+{"kind":"shape","id":"sh/h8fihkba","slide":14,"bbox":[742,112,420,420]}
+{"kind":"textbox","id":"sh/v6x0fatk","slide":14,"text":"invest-gold.asia  /  14","textPreview":"invest-gold.asia  /  14","textChars":23,"textLines":1,"bbox":[980,666,230,24]}
+{"kind":"image","id":"im/vahwb610","slide":14,"name":"","geometry":"roundRect","alt":"Главная страница проекта","bbox":[764,134,376,376]}
+{"kind":"notes","id":"nt/i5sq7p","slide":14,"text":""}

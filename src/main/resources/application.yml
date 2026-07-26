@@ -1,0 +1,57 @@
+spring:
+  application:
+    name: test-magistratura
+  datasource:
+    url: ${DB_URL:jdbc:postgresql://localhost:5432/kta}
+    username: ${DB_USERNAME:kta}
+    password: ${DB_PASSWORD:kta}
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    open-in-view: false
+  flyway:
+    enabled: true
+  servlet:
+    multipart:
+      max-file-size: ${UPLOAD_MAX_FILE_SIZE:64MB}
+      max-request-size: ${UPLOAD_MAX_REQUEST_SIZE:72MB}
+  data:
+    redis:
+      host: ${REDIS_HOST:localhost}
+      port: ${REDIS_PORT:6379}
+  mail:
+    host: ${SMTP_HOST:smtp.yandex.ru}
+    port: ${SMTP_PORT:465}
+    username: ${SMTP_USERNAME:}
+    password: ${SMTP_PASSWORD:}
+    properties:
+      mail:
+        smtp:
+          auth: true
+          ssl:
+            enable: ${SMTP_SSL_ENABLED:true}
+
+server:
+  port: ${SERVER_PORT:8080}
+
+kta:
+  public-url: ${PUBLIC_URL:https://invest-gold.asia}
+  demo-data:
+    enabled: ${DEMO_DATA_ENABLED:false}
+  bootstrap-admin:
+    email: ${BOOTSTRAP_ADMIN_EMAIL:}
+    password: ${BOOTSTRAP_ADMIN_PASSWORD:}
+    full-name: ${BOOTSTRAP_ADMIN_FULL_NAME:Админ Тест Магистратура}
+  jwt:
+    secret: ${JWT_SECRET:kta-local-development-secret-change-in-production-2026}
+    access-token-minutes: ${JWT_ACCESS_MINUTES:60}
+    refresh-token-days: ${JWT_REFRESH_DAYS:30}
+  email-verification:
+    enabled: ${EMAIL_VERIFICATION_ENABLED:false}
+    from: ${SMTP_FROM:${SMTP_USERNAME:}}
+    code-ttl-minutes: ${EMAIL_CODE_TTL_MINUTES:10}
+    dev-code: ${EMAIL_VERIFICATION_DEV_CODE:}
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html

@@ -1,0 +1,23 @@
+spring:
+  datasource:
+    url: jdbc:h2:mem:kta;MODE=PostgreSQL;DATABASE_TO_LOWER=TRUE;DEFAULT_NULL_ORDERING=HIGH
+    driver-class-name: org.h2.Driver
+    username: sa
+    password:
+  flyway:
+    enabled: false
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+  data:
+    redis:
+      repositories:
+        enabled: false
+
+kta:
+  demo-data:
+    enabled: false
+  jwt:
+    secret: test-secret-with-enough-entropy-for-test-magistratura
+    access-token-minutes: 60
+    refresh-token-days: 30
