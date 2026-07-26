@@ -1,0 +1,23 @@
+spring:
+  datasource:
+    url: jdbc:h2:file:./data/kta;MODE=PostgreSQL;DATABASE_TO_LOWER=TRUE;DEFAULT_NULL_ORDERING=HIGH;AUTO_SERVER=TRUE
+    driver-class-name: org.h2.Driver
+    username: sa
+    password:
+  jpa:
+    hibernate:
+      ddl-auto: update
+  flyway:
+    enabled: false
+  data:
+    redis:
+      repositories:
+        enabled: false
+
+logging:
+  level:
+    org.hibernate.SQL: warn
+
+kta:
+  demo-data:
+    enabled: true

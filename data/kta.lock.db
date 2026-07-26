@@ -1,0 +1,6 @@
+#FileLock
+#Wed Jul 22 17:33:48 ALMT 2026
+hostName=192.168.8.216
+id=19f89ce351987dada16e81276738bb80f8abc02bb39
+method=file
+server=192.168.8.216\:60692
